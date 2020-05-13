@@ -1,0 +1,3 @@
+/home/ufo/嵌入式/week12/tri/build/CMakeFiles/rebuild_cache.dir
+/home/ufo/嵌入式/week12/tri/build/CMakeFiles/triangulation.dir
+/home/ufo/嵌入式/week12/tri/build/CMakeFiles/edit_cache.dir

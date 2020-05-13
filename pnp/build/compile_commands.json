@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ufo/嵌入式/week12/pnp/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/include/suitesparse  -g   -std=gnu++11 -o CMakeFiles/pose_estimation_3d2d.dir/pose_estimation_3d2d.cpp.o -c /home/ufo/嵌入式/week12/pnp/pose_estimation_3d2d.cpp",
+  "file": "/home/ufo/嵌入式/week12/pnp/pose_estimation_3d2d.cpp"
+}
+]
